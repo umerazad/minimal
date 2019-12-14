@@ -42,7 +42,7 @@ img {
 
 .content {
     padding-top: 20px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 /* Profile picture */
@@ -57,7 +57,7 @@ img {
 
 a:link,
 a:visited {
-    color: var(--accent);
+    color: #0000FF;
 }
 
 a.icon:hover {
@@ -91,8 +91,9 @@ a:hover {
 }
 
 .item-tag {
-    background-color: #669999;
-    font-size: 11px;
+    background-color: white;
+    color: green;
+    font-size: 10px;
 }
 
 /* Navigation icons */
